@@ -1,0 +1,248 @@
+[{
+  "_id": 1,
+  "name": "Kirby Siedler",
+  "age": 25,
+  "residence": "street 1",
+  "characteristics": "arrogant, stubborn and conceited.",
+  "fingerprint": "1__M_Right_thumb_finger.BMP"
+},
+{
+  "_id": 2,
+  "name": "Emily Johnson",
+  "age": 32,
+  "residence": "avenue 5",
+  "characteristics": "kind-hearted, diligent and patient.",
+  "fingerprint": "2__F_Left_index_finger.BMP"
+},
+{
+  "_id": 3,
+  "name": "Michael Thompson",
+  "age": 41,
+  "residence": "road 12",
+  "characteristics": "friendly, outgoing and witty.",
+  "fingerprint": "3__M_Right_middle_finger.BMP"
+},
+{
+  "_id": 4,
+  "name": "Sophia Davis",
+  "age": 19,
+  "residence": "lane 8",
+  "characteristics": "shy, introverted and artistic.",
+  "fingerprint": "4__F_Left_ring_finger.BMP"
+},
+{
+  "_id": 5,
+  "name": "Jacob Wilson",
+  "age": 36,
+  "residence": "street 3",
+  "characteristics": "hardworking, ambitious and analytical.",
+  "fingerprint": "5__M_Left_little_finger.BMP"
+},
+{
+  "_id": 6,
+  "name": "Emma Anderson",
+  "age": 27,
+  "residence": "avenue 9",
+  "characteristics": "compassionate, caring and organized.",
+  "fingerprint": "6__F_Right_ring_finger.BMP"
+},
+{
+  "_id": 7,
+  "name": "Daniel Clark",
+  "age": 48,
+  "residence": "road 6",
+  "characteristics": "wise, patient and reliable.",
+  "fingerprint": "7__M_Right_little_finger.BMP"
+},
+{
+  "_id": 8,
+  "name": "Olivia Thomas",
+  "age": 22,
+  "residence": "street 7",
+  "characteristics": "energetic, adventurous and spontaneous.",
+  "fingerprint": "8__M_Left_middle_finger.BMP"
+},
+{
+  "_id": 9,
+  "name": "Ethan Rodriguez",
+  "age": 31,
+  "residence": "avenue 2",
+  "characteristics": "confident, ambitious and persuasive.",
+  "fingerprint": "9__M_Left_ring_finger.BMP"
+},
+{
+  "_id": 10,
+  "name": "Ava Martinez",
+  "age": 29,
+  "residence": "lane 4",
+  "characteristics": "charming, sociable and creative.",
+  "fingerprint": "10__M_Right_middle_finger.BMP"
+},
+{
+  "_id": 11,
+  "name": "Noah Hernandez",
+  "age": 39,
+  "residence": "road 11",
+  "characteristics": "reliable, calm and organized.",
+  "fingerprint": "11__M_Left_index_finger.BMP"
+},
+{
+  "_id": 12,
+  "name": "Mila Johnson",
+  "age": 32,
+  "residence": "Avenue 5",
+  "characteristics": "friendly, outgoing, and adventurous.",
+  "fingerprint": "12__M_Left_ring_finger.BMP"
+},
+{
+  "_id": 13,
+  "name": "Liam Anderson",
+  "age": 41,
+  "residence": "Street 9",
+  "characteristics": "calm, analytical, and reliable.",
+  "fingerprint": "13__F_Left_index_finger.BMP"
+},
+{
+  "_id": 14,
+  "name": "Ava Thompson",
+  "age": 29,
+  "residence": "Road 3",
+  "characteristics": "creative, imaginative, and dreamy.",
+  "fingerprint": "14__M_Right_ring_finger.BMP"
+},
+{
+  "_id": 15,
+  "name": "Noah Parker",
+  "age": 37,
+  "residence": "Lane 8",
+  "characteristics": "determined, ambitious, and focused.",
+  "fingerprint": "15__F_Left_thumb_finger.BMP"
+},
+{
+  "_id": 16,
+  "name": "Olivia Mitchell",
+  "age": 28,
+  "residence": "Avenue 2",
+  "characteristics": "kind-hearted, empathetic, and compassionate.",
+  "fingerprint": "16__M_Left_middle_finger.BMP"
+},
+{
+  "_id": 17,
+  "name": "Elijah Adams",
+  "age": 35,
+  "residence": "Street 7",
+  "characteristics": "energetic, enthusiastic, and optimistic.",
+  "fingerprint": "17__M_Right_index_finger.BMP"
+},
+{
+  "_id": 18,
+  "name": "Sophia Turner",
+  "age": 31,
+  "residence": "Road 4",
+  "characteristics": "intelligent, logical, and quick-witted.",
+  "fingerprint": "18__M_Left_ring_finger.BMP"
+},
+{
+  "_id": 19,
+  "name": "Logan Wilson",
+  "age": 43,
+  "residence": "Lane 12",
+  "characteristics": "adventurous, daring, and thrill-seeking.",
+  "fingerprint": "19__M_Right_middle_finger.BMP"
+},
+{
+  "_id": 20,
+  "name": "Isabella Scott",
+  "age": 27,
+  "residence": "Avenue 6",
+  "characteristics": "cheerful, bubbly, and lively.",
+  "fingerprint": "20__M_Right_index_finger.BMP"
+},
+{
+  "_id": 21,
+  "name": "Jane Doe",
+  "age": 30,
+  "residence": "123 Main Street",
+  "characteristics": "friendly, outgoing, helpful",
+  "fingerprint": "21__M_Left_index_finger.BMP"
+},
+{
+  "_id": 22,
+  "name": "John Smith",
+  "age": 42,
+  "residence": "456 Elm Street",
+  "characteristics": "calm, patient, reliable",
+  "fingerprint": "22__M_Right_index_finger.BMP"
+},
+{
+  "_id": 23,
+  "name": "Emily Johnson",
+  "age": 28,
+  "residence": "789 Oak Avenue",
+  "characteristics": "creative, imaginative, artistic",
+  "fingerprint": "23__M_Left_middle_finger.BMP"
+},
+{
+  "_id": 24,
+  "name": "Michael Brown",
+  "age": 35,
+  "residence": "567 Pine Road",
+  "characteristics": "analytical, logical, detail-oriented",
+  "fingerprint": "24__F_Right_ring_finger.BMP"
+},
+{
+  "_id": 25,
+  "name": "Olivia Wilson",
+  "age": 29,
+  "residence": "321 Cedar Lane",
+  "characteristics": "optimistic, energetic, enthusiastic",
+  "fingerprint": "25__F_Left_ring_finger.BMP"
+},
+{
+  "_id": 26,
+  "name": "Robert Davis",
+  "age": 38,
+  "residence": "987 Walnut Avenue",
+  "characteristics": "organized, disciplined, efficient",
+  "fingerprint": "26__M_Right_thumb_finger.BMP"
+},
+{
+  "_id": 27,
+  "name": "Sophia Taylor",
+  "age": 27,
+  "residence": "654 Birch Street",
+  "characteristics": "compassionate, empathetic, caring",
+  "fingerprint": "27__M_Left_ring_finger.BMP"
+},
+{
+  "_id": 28,
+  "name": "William Martinez",
+  "age": 33,
+  "residence": "234 Maple Avenue",
+  "characteristics": "adventurous, daring, thrill-seeking",
+  "fingerprint": "28__M_Right_middle_finger.BMP"
+},
+{
+  "_id": 29,
+  "name": "Abigail Anderson",
+  "age": 31,
+  "residence": "876 Oak Street",
+  "characteristics": "intelligent, curious, inquisitive",
+  "fingerprint": "29__F_Left_index_finger.BMP"
+},
+{
+  "_id": 30,
+  "name": "Ethan Thomas",
+  "age": 40,
+  "residence": "543 Pine Lane",
+  "characteristics": "patient, understanding, tolerant",
+  "fingerprint": "30__F_Right_ring_finger.BMP"
+},
+{
+  "_id": 31,
+  "name": "Charlotte Clark",
+  "age": 26,
+  "residence": "987 Elm Road",
+  "characteristics": "friendly, sociable, outgoing",
+  "fingerprint": "31__F_Left_thumb_finger.BMP"
+}]
